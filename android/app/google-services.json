@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854029688147",
+    "project_id": "prescription-1c577",
+    "storage_bucket": "prescription-1c577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854029688147:android:4416963ee661b04185d5a6",
+        "android_client_info": {
+          "package_name": "com.example.prescriotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854029688147-3ru5k1j31l1g4l28l57e4tqe604npl5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLWGF97AMYAA8IQFpnaTbaUU-HSGasrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854029688147-3ru5k1j31l1g4l28l57e4tqe604npl5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
